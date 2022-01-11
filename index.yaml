@@ -10,4 +10,14 @@ entries:
     urls:
     - https://gajananan.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-05T14:50:30.901612+09:00"
+  helm-chart-test-new:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-11T13:43:59.12107+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 40f7bc7f57749b0fedc1f40d1c4b04878784e40004114953130e360917970f7b
+    name: helm-chart-test-new
+    urls:
+    - https://gajananan.github.io/helm-chart/helm-chart-test-new-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-11T13:43:59.119385+09:00"
