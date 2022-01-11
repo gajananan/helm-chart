@@ -1,5 +1,15 @@
 apiVersion: v1
 entries:
+  helm-chart-sample:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-11T13:58:30.420121+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 0beaca87bff7bbbb1f693f472fc82e9708c59f3d77127d7382f79c1bfac55b27
+    name: helm-chart-sample
+    urls:
+    - https://gajananan.github.io/helm-chart/helm-chart-sample-0.1.0.tgz
+    version: 0.1.0
   helm-chart-test:
   - apiVersion: v1
     appVersion: "1.0"
@@ -29,4 +39,4 @@ entries:
     urls:
     - https://gajananan.github.io/helm-chart/helm-chart-test-new-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-11T13:53:24.78676+09:00"
+generated: "2022-01-11T13:58:30.415904+09:00"
