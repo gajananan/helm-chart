@@ -13,11 +13,20 @@ entries:
   helm-chart-test-new:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-11T13:43:59.12107+09:00"
+    created: "2022-01-11T13:53:24.789382+09:00"
     description: A Helm chart for Kubernetes
-    digest: 40f7bc7f57749b0fedc1f40d1c4b04878784e40004114953130e360917970f7b
+    digest: 4c0512ee85c372b3f7505b7b7debdfc36c4c0eebc9c6aaf27240aafc89dac719
+    name: helm-chart-test-new
+    urls:
+    - https://gajananan.github.io/helm-chart/helm-chart-test-new-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-11T13:53:24.788693+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 1a703c857de1bc483ee976caea166f69b41f322e1b9e1ff342fa97f18996af0a
     name: helm-chart-test-new
     urls:
     - https://gajananan.github.io/helm-chart/helm-chart-test-new-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-11T13:43:59.119385+09:00"
+generated: "2022-01-11T13:53:24.78676+09:00"
