@@ -4,5 +4,9 @@ metadata:
   name: signature-resource
   labels:
     integrityshield.io/signatureResource: "true"
+    app.kubernetes.io/name: {{ include "helm-chart-test.name" . }}
+    helm.sh/chart: {{ include "helm-chart-test.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
   annotations:
     argocd.interlace.dev/signature-compress: "true"
