@@ -10,3 +10,4 @@ metadata:
     app.kubernetes.io/managed-by: {{ .Release.Service }}
   annotations:
     argocd.interlace.dev/signature-compress: "true"
+    argocd.interlace.dev/signature-resource: "true"
