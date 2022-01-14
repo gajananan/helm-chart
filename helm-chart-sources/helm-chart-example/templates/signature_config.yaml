@@ -8,6 +8,3 @@ metadata:
     helm.sh/chart: {{ include "helm-chart-test.chart" . }}
     app.kubernetes.io/instance: {{ .Release.Name }}
     app.kubernetes.io/managed-by: {{ .Release.Service }}
-  annotations:
-    argocd.interlace.dev/signature-compress: "true"
-    argocd.interlace.dev/signature-resource: "true"
