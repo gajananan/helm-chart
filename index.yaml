@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  helm-chart-sample:
+  helm-chart-helloworld:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-17T15:40:09.727639+09:00"
+    created: "2022-01-17T15:48:27.972693+09:00"
     description: A Helm chart for Kubernetes
-    digest: 6e47609ce2d4bf4a715994d5f1b660e98295b983f36cd5165f8ee0f689d075c5
-    name: helm-chart-sample
+    digest: 653360c62b13682b19cd884e948323251271f5518cba9229662b3239b2849e48
+    name: helm-chart-helloworld
     urls:
-    - https://gajananan.github.io/helm-chart/helm-chart-sample-0.1.0.tgz
+    - https://gajananan.github.io/helm-chart/helm-chart-helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-17T15:40:09.724565+09:00"
+generated: "2022-01-17T15:48:27.970923+09:00"
