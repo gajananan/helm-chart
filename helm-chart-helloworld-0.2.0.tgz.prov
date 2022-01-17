@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v1
+appVersion: "1.0"
+description: A Helm chart for Kubernetes
+name: helm-chart-helloworld
+version: 0.2.0
+
+...
+files:
+  helm-chart-helloworld-0.2.0.tgz: sha256:75356d493c4bdda3072301ffc52c7f3c05fdf81ec5661dd5bf297deb1bf529c2
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJh5RMgCRCd+/YHYstCbwAA+T4MAEbwHel5U+VKBFG0BcelNeWR
+mdlJOSBqrcoEVZncIjJudVGx+W2BGdW6d1I0w95aW53O3iweYd03byk/joxBjZbk
+6LZ319M+QYnU0Q5b2WOVfHl918E3s1XvChf/1vUEZ9ky7hWklGV4oqK2pfgBx6FU
+MfF8BwZkHVvg+bOfkF0dUOjH0yJFy61FExRzyx78UqB+9TaZ8SwZOWVlp7PwKISm
+2SCCvhKY+7g4lHtGJX0jmOdzAapqwNbeujg7yQ+ND8G3YmMgxWoUANaEyn4AnUj8
+19FfFmLHWCwo1yenAu//HQBwLQ4imDblpaQbmjHRdhktL180iwXfobBpJhOu7Uj0
+NdJUZjl9dJYIZamL0b+F9QXCNaBu/lR1XgA7rTGYxuoOXl3anIkIqDwt+LPY8sQN
+qa+fXEH9mlLVmW6rQH9ZeaGRm3Z3ywGKMRaXMsj+SxRR3HxMA8BpOFhk5gJ7co+l
+HzgEG2iX4rVN5cXodAX+5jFTtq90OIleiX+EYyRIbw==
+=c3CG
+-----END PGP SIGNATURE-----

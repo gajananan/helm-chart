@@ -3,11 +3,20 @@ entries:
   helm-chart-helloworld:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-01-17T15:48:27.972693+09:00"
+    created: "2022-01-17T15:56:44.698493+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 75356d493c4bdda3072301ffc52c7f3c05fdf81ec5661dd5bf297deb1bf529c2
+    name: helm-chart-helloworld
+    urls:
+    - https://gajananan.github.io/helm-chart/helm-chart-helloworld-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-01-17T15:56:44.696683+09:00"
     description: A Helm chart for Kubernetes
     digest: 653360c62b13682b19cd884e948323251271f5518cba9229662b3239b2849e48
     name: helm-chart-helloworld
     urls:
     - https://gajananan.github.io/helm-chart/helm-chart-helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-17T15:48:27.970923+09:00"
+generated: "2022-01-17T15:56:44.693264+09:00"
